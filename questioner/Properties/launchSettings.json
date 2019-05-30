@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "questioner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"P:\\oss\\coreclr\\src\\System.Private.CoreLib\\System.Private.CoreLib.sln\""
+    }
+  }
+}
